@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperlyNullableMinimalRepo", "MapperlyNullableMinimalRepo\MapperlyNullableMinimalRepo.csproj", "{8DE9D1C9-7693-418B-81AF-9EDE9C25D5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE9D1C9-7693-418B-81AF-9EDE9C25D5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE9D1C9-7693-418B-81AF-9EDE9C25D5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE9D1C9-7693-418B-81AF-9EDE9C25D5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE9D1C9-7693-418B-81AF-9EDE9C25D5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7586CCE1-986A-41DE-B8DB-1C1BA17A6DA7}
+	EndGlobalSection
+EndGlobal
